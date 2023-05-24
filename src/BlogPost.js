@@ -35,7 +35,7 @@ const BlogPost = () => {
       <div className="mt-4 border-b border-gray-200 pb-4">
         <div
           className={`text-gray-800 ${
-            isExpanded ? "overflow-visible" : "overflow-hidden line-clamp-3"
+            isExpanded ? "overflow-visible block" : "overflow-hidden hidden line-clamp-3"
           }`}
         >
           <p className="indent-6">
