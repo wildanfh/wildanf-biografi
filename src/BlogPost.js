@@ -48,9 +48,9 @@ const BlogPost = () => {
             bersekolah.
           </p>
           <div className="my-4 flex gap-2 justify-center flex-wrap" data-aos="fade-right">
-            <img src="images/code.jpeg" className="rounded-lg max-h-32"/>
-            <img src="images/book.jpeg" className="rounded-lg max-h-32"/>
-            <img src="images/film.jpeg" className="rounded-lg max-h-32"/>
+            <img src="images/code.jpeg" alt="img" className="rounded-lg max-h-32"/>
+            <img src="images/book.jpeg" alt="img" className="rounded-lg max-h-32"/>
+            <img src="images/film.jpeg" alt="img" className="rounded-lg max-h-32"/>
           </div>
           <p className="indent-6 mt-4" data-aos="fade-right">
             Hobi saya meliputi pemrograman, membaca buku, dan menonton film.
@@ -100,7 +100,7 @@ const BlogPost = () => {
             kombinasi antara pendidikan teori dan pelatihan praktis yang dapat
             meningkatkan keterampilan profesional saya.
           </p>
-          <img src="images/felix.jpeg" className="my-4 rounded-lg h-36 m-auto" data-aos="fade-left"/>
+          <img src="images/felix.jpeg" alt="img" className="my-4 rounded-lg h-36 m-auto" data-aos="fade-left"/>
           <p className="indent-6 mt-4" data-aos="fade-left">
             Tokoh agama atau ulama yang menjadi idola bagi saya adalah Ust.
             Felix Siauw, karena beliau memiliki pemahaman yang mendalam tentang
@@ -108,8 +108,8 @@ const BlogPost = () => {
             menyebarkan nilai-nilai kebaikan.
           </p>
           <div className="my-4 flex gap-2 justify-center flex-wrap" data-aos="fade-right">
-            <img src="images/muhammad.jpg" className="rounded-lg max-h-32"/>
-            <img src="images/tereliye.jpg" className="rounded-lg max-h-32"/>
+            <img src="images/muhammad.jpg" alt="img" className="rounded-lg max-h-32"/>
+            <img src="images/tereliye.jpg" alt="img" className="rounded-lg max-h-32"/>
           </div>
           <p className="indent-6 mt-4" data-aos="fade-right">
             Tokoh politik idola yang telah meninggal bagi saya adalah Nabi
@@ -121,7 +121,7 @@ const BlogPost = () => {
             kategori tersebut, saya mengagumi seorang penulis bernama Tere Liye
             karena tulisan-tulisannya yang sangat menginspirasi.
           </p>
-          <img src="images/jerman.jpeg" className="my-4 rounded-lg h-36 m-auto" data-aos="fade-left"/>
+          <img src="images/jerman.jpeg" alt="img" className="my-4 rounded-lg h-36 m-auto" data-aos="fade-left"/>
           <p className="indent-6 mt-4" data-aos="fade-left">
             Motivasi utama saya kuliah di Jerman adalah untuk mendapatkan
             pendidikan yang berkualitas dan peluang karir yang lebih baik di
@@ -145,7 +145,7 @@ const BlogPost = () => {
             negara, menghormati hak asasi manusia, dan berpartisipasi dalam
             kegiatan masyarakat.
           </p>
-          <img src="images/adab.jpg" className="my-4 rounded-lg h-36 m-auto" data-aos="fade-right"/>
+          <img src="images/adab.jpg" alt="img" className="my-4 rounded-lg h-36 m-auto" data-aos="fade-right"/>
           <p className="indent-6 mt-4" data-aos="fade-right">
             Adab dalam kehidupan seperti akar yang kuat pada pohon yang
             menjulang tinggi. Ia memberikan dasar yang kokoh bagi perilaku dan
